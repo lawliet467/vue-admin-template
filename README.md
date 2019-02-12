@@ -36,7 +36,7 @@ npm run serve
 npm run build
 ```
 
-###License
+### License
 [MIT](https://github.com/lawliet467/vue-admin-template/License)  
 
 Copyright (c) 2019-present lawliet467
