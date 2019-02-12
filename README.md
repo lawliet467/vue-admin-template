@@ -1,4 +1,23 @@
-# 后台管理系统模板
+<p align=center>
+<img width=200 src="https://cn.vuejs.org/images/logo.png" />
+</p>
+<p align="center">
+  <a href="https://github.com/vuejs/vue">
+    <img src="https://img.shields.io/badge/vue-2.5.22-brightgreen.svg" alt="vue">
+  </a>
+  <a href="https://github.com/ElemeFE/element">
+    <img src="https://img.shields.io/badge/element--ui-2.5.4-brightgreen.svg" alt="element-ui">
+  </a>
+  <a href="https://github.com/vuejs/vue-router">
+    <img src="https://img.shields.io/badge/vue--router-3.0.1-yellowgreen.svg" alt="vue-router">
+  </a>
+  <a href="https://github.com/vuejs/vuex">
+    <img src="https://img.shields.io/badge/vuex-3.0.1-orange.svg" alt="vuex">
+  </a>
+  <a href="https://github.com/lawliet467/vue-admin-template/blob/dev/License">
+    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
+  </a>
+</p>
 
 ### 简介
 [vue-admin-template](https://github.com/lawliet467/vue-admin-template) 是一个简单的后台管理系统模板，它基于[vue](https://cn.vuejs.org/) 和 [element-ui](http://element-cn.eleme.io/#/zh-CN)。没有掺杂任何业务代码，开箱即用。  
@@ -11,7 +30,6 @@
 ![登录界面](./jietu/vue2.jpg "登录界面")
 
 ![项目结构](./jietu/vue3.png "项目结构")
-
 
 ### 开发
 
