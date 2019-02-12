@@ -55,7 +55,7 @@
         box-shadow: 3px 1px 4px 0 rgba(0,0,0,.2);
         z-index: 10;
         .title {
-            cursor: pointer;
+            cursor: pointer ;
         }
         .logo{
             width: 40px;
